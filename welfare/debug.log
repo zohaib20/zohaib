@@ -1,0 +1,14 @@
+[0925/012855.146:ERROR:process_info.cc(359)] UncheckedAllocate
+[0925/012855.338:ERROR:process_info.cc(359)] UncheckedAllocate
+[0925/012855.359:ERROR:process_info.cc(359)] UncheckedAllocate
+[0925/012855.385:ERROR:process_info.cc(359)] UncheckedAllocate
+[0925/012855.748:ERROR:process_reader_win.cc(188)] ResumeThread: The parameter is incorrect. (0x57)
+[0925/012855.748:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0925/012855.749:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0925/012855.749:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0925/012855.749:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0925/012855.749:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0925/012855.749:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0925/012855.749:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0925/012855.749:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0925/012855.900:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
